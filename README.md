@@ -1,5 +1,4 @@
 
-
 # Interactive Board
 
 An interactive drag-and-drop board where users can add, move, and edit elements such as inputs, labels, and buttons. The board features modals for editing element properties and a sidebar for importing and exporting JSON configurations.
@@ -15,7 +14,7 @@ An interactive drag-and-drop board where users can add, move, and edit elements 
 
 ## Demo
 
-[![Watch the video]()]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://screenrec.com/share/bMjBV7YIqf))
+[![Watch the video](https://img.youtube.com/vi/bMjBV7YIqf/0.jpg)](https://screenrec.com/share/bMjBV7YIqf)
 
 ## Installation
 
@@ -101,5 +100,3 @@ This file contains utility types and interfaces used across the project.
 3. **Commit your changes** (`git commit -m 'Add some feature'`)
 4. **Push to the branch** (`git push origin feature/your-feature`)
 5. **Open a pull request**
-
-
