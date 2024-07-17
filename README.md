@@ -14,13 +14,8 @@ An interactive drag-and-drop board where users can add, move, and edit elements 
 
 ## Demo
 
-[![Watch the video](https://img.youtube.com/vi/bMjBV7YIqf/0.jpg)](https://screenrec.com/share/bMjBV7YIqf)
 
-
-![Demo Video](https://screenrec.com/share/bMjBV7YIqf)
-
-Watch the full video [here](https://screenrec.com/share/bMjBV7YIqf).
-
+https://github.com/user-attachments/assets/567b7c11-bd8a-423c-8bc7-be320a2c71ed
 ## Installation
 
 1. **Clone the repository:**
